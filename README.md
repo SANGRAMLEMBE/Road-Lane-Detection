@@ -15,7 +15,8 @@ In this image show plane road line. Road lane not detected
 
 Road lane detection image using web camera Road lane detection
 
-![Uploading road2.jpeg…]()
+![road2](https://github.com/user-attachments/assets/b2776983-1f62-4a6e-ae5b-715b32c3fda1)
+
 
 
 Gaussian Smoothing (Gaussian Blur) When there is an edge (i.e. a line), the pixel intensity changes rapidly (i.e. from 0 to 255) which we want to detect. But before doing so, we should make the edges smoother. As you can see, the above images have many rough edges which causes many noisy edges to be detected.
